@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Point-Based Semi-Variogram Analysis for Artificial Rainfall"
+version: 0.0.1
+date-released: 2024-09-01
+url: "https://github.com/storm-fsv-cvut/SemiVariogram"
+repository-code: "https://github.com/storm-fsv-cvut/SemiVariogram"
+authors:
+  - family-names: "Kubát"
+    given-names: "Jan-František"
+    orcid: "https://orcid.org/0000-0001-9160-3277"
+    
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Kubát"
+      given-names: "Jan-František"
+  title: "Point-Based Semi-Variogram Analysis for Artificial Rainfall"
+  version: "0.0.1"
+  url: "https://github.com/storm-fsv-cvut/SemiVariogram"
+  date-released: "2024-09-01"
+
+# Citation formats
+references:
+  - type: article
+    style: apa
+    citation: >
+      Kubát, J.-F. (2024). Point-Based Semi-Variogram Analysis for Artificial Rainfall (Version 0.0.1) [Computer software]. https://github.com/storm-fsv-cvut/SemiVariogram
+  - type: article
+    style: mla
+    citation: >
+      Kubát, Jan-František. *Point-Based Semi-Variogram Analysis for Artificial Rainfall*. 2024, GitHub repository, https://github.com/storm-fsv-cvut/SemiVariogram.
