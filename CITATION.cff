@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Point-Based Semi-Variogram Analysis for Artificial Rainfall"
-version: 0.0.1
-date-released: 2024-09-01
-url: "https://github.com/storm-fsv-cvut/SemiVariogram"
-repository-code: "https://github.com/storm-fsv-cvut/SemiVariogram"
+title: "3D Printed Autonomous Mini Disk Infiltrometer"
+version: 1.0.0
+date-released: 2025-04-22
+url: "https://github.com/kubatjanf/AMDI"
+repository-code: "https://github.com/kubatjanf/AMDI"
 authors:
   - family-names: "Kubát"
     given-names: "Jan-František"
@@ -15,18 +15,18 @@ preferred-citation:
   authors:
     - family-names: "Kubát"
       given-names: "Jan-František"
-  title: "Point-Based Semi-Variogram Analysis for Artificial Rainfall"
-  version: "0.0.1"
-  url: "https://github.com/storm-fsv-cvut/SemiVariogram"
-  date-released: "2024-09-01"
+  title: "3D Printed Autonomous Mini Disk Infiltrometer"
+  version: "1.0.0"
+  url: "https://github.com/kubatjanf/AMDI"
+  date-released: "2025-04-22"
 
 # Citation formats
 references:
   - type: article
     style: apa
     citation: >
-      Kubát, J.-F. (2024). Point-Based Semi-Variogram Analysis for Artificial Rainfall (Version 0.0.1) [Computer software]. https://github.com/storm-fsv-cvut/SemiVariogram
+      Kubát, J.-F. (2025). 3D Printed Autonomous Mini Disk Infiltrometer for MEasurement of Hydraulic Conductivity of Soil (Version 1.0.0) [Hardware]. https://github.com/kubatjanf/AMDI
   - type: article
     style: mla
     citation: >
-      Kubát, Jan-František. *Point-Based Semi-Variogram Analysis for Artificial Rainfall*. 2024, GitHub repository, https://github.com/storm-fsv-cvut/SemiVariogram.
+      Kubát, Jan-František. *3D Printed Autonomous Mini Disk Infiltrometer for MEasurement of Hydraulic Conductivity of Soil*. 2025, GitHub repository, https://github.com/kubatjanf/AMDI.
