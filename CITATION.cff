@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "3D Printed Autonomous Mini Disk Infiltrometer"
+title: "Autonomous 3D Printed Mini Disk Infiltrometer for Soil Hydraulic Conductivity Determination"
 version: 1.0.0
 date-released: 2025-04-22
 url: "https://github.com/kubatjanf/AMDI"
@@ -9,13 +9,18 @@ authors:
   - family-names: "Kubát"
     given-names: "Jan-František"
     orcid: "https://orcid.org/0000-0001-9160-3277"
-    
+  - family-names: "Sněhota"
+    given-names: "Michal"
+    orcid: "https://orcid.org/0000-0001-8849-177X"
+
 preferred-citation:
   type: hardware
   authors:
     - family-names: "Kubát"
       given-names: "Jan-František"
-  title: "3D Printed Autonomous Mini Disk Infiltrometer"
+    - family-names: "Sněhota"
+      given-names: "Michal"
+  title: "Autonomous 3D Printed Mini Disk Infiltrometer for Soil Hydraulic Conductivity Determination"
   version: "1.0.0"
   url: "https://github.com/kubatjanf/AMDI"
   date-released: "2025-04-22"
@@ -25,8 +30,8 @@ references:
   - type: article
     style: apa
     citation: >
-      Kubát, J.-F. (2025). 3D Printed Autonomous Mini Disk Infiltrometer for MEasurement of Hydraulic Conductivity of Soil (Version 1.0.0) [Hardware]. https://github.com/kubatjanf/AMDI
+      Kubát, J.-F., & Sněhota, M. (2025). Autonomous 3D Printed Mini Disk Infiltrometer for Soil Hydraulic Conductivity Determination (Version 1.0.0) [Hardware]. https://github.com/kubatjanf/AMDI
   - type: article
     style: mla
     citation: >
-      Kubát, Jan-František. *3D Printed Autonomous Mini Disk Infiltrometer for MEasurement of Hydraulic Conductivity of Soil*. 2025, GitHub repository, https://github.com/kubatjanf/AMDI.
+      Kubát, Jan-František, and Michal Sněhota. *Autonomous 3D Printed Mini Disk Infiltrometer for Soil Hydraulic Conductivity Determination*. 2025, GitHub repository, https://github.com/kubatjanf/AMDI.
