@@ -5,6 +5,7 @@
 The **Automated Mini Disk Infiltrometer (AMDI)** is a 3D-printed, low-cost device designed to measure **soil infiltration** under controlled suction conditions. Based on the principles of the widely used **Mini Disk Infiltrometer (MDI)**, the AMDI extends its functionality by integrating a **TMS-4 capacitance sensor** for automatic data collection, reducing the need for manual observation.
 
 The AMDI is suitable for both **field** and **laboratory** use and enables the estimation of **unsaturated hydraulic conductivity** near saturation.
+
 <span style="color:red">We offer a limited number of AMDI units, which can be ordered via email at jan-frantisek.kubat@fsv.cvut.cz. This offer is valid until withdrawn.</span>
 
 ---
