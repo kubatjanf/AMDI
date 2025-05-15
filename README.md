@@ -18,7 +18,7 @@ The following figure presents the fully assembled AMDI:
 
 ## 3D Printing Overview
 
-All 3D-printed parts were created using FDM printers such as **Prusa XL**, **MK3S+**, or **Mini+**. Recommended print settings are available in the provided `!SlicerSettings.3mf` file.
+All 3D-printed parts were created using FDM printers such as **Prusa XL**, **MK3S+**, or **Mini+**. Recommended print settings are available in the provided `SlicerSettings.3mf` file.
 
 | Parameter                  | Value              |
 |---------------------------|--------------------|
