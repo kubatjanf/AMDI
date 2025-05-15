@@ -19,6 +19,8 @@ The following figure presents the fully assembled AMDI:
 ## 3D Printing Overview
 
 All 3D-printed parts were created using FDM printers such as **Prusa XL**, **MK3S+**, or **Mini+**. Recommended print settings are available in the provided `SlicerSettings.3mf` file.
+AMDI was tested with polyethylene terephthalate glycol (PET-G) filament produced by Prusa a.s. (Czechia).
+Use clear filament (color: E4E7E5) with a diameter of 1.75 ± 0.02 mm. Since the suction is set by adjusting the water level in the Mariotte chamber.
 
 | Parameter                  | Value              |
 |---------------------------|--------------------|
