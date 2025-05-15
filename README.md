@@ -90,7 +90,7 @@ General calibration steps:
 
 The AMDI can be used under controlled or natural conditions to monitor infiltration at various pressure heads. The sensor enables automated data logging, making it suitable for both short-term and long-term infiltration studies.
 
-Refer to the associated article for detailed procedures and data analysis workflows.
+> Refer to the associated article for detailed procedures and data analysis workflows.
 
 ---
 
