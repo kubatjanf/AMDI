@@ -1,6 +1,10 @@
 # Automated 3D Printed Mini Disk Infiltrometer (AMDI)
 
-The AMDI is a custom-designed, low-cost infiltrometer, primarily built using 3D printed parts. It features a Mariotte chamber, TDT sensor integration, and sintered stainless steel disk for accurate soil infiltration measurements.
+## Introduction
+
+The **Automated Mini Disk Infiltrometer (AMDI)** is a 3D-printed, low-cost device designed to measure **soil infiltration** under controlled suction conditions. Based on the principles of the widely used **Mini Disk Infiltrometer (MDI)**, the AMDI extends its functionality by integrating a **TMS-4 capacitance sensor** for automatic data collection, reducing the need for manual observation.
+
+The AMDI is suitable for both **field** and **laboratory** use and enables the estimation of **unsaturated hydraulic conductivity** near saturation.
 
 ---
 
@@ -12,9 +16,9 @@ The following figure presents the fully assembled AMDI:
 
 ---
 
-## Parts and Slicer Settings
+## 3D Printing Overview
 
-All parts except **A1 (infiltrometer body)** were printed using **Prusa XL**, **Prusa MK3S+**, and **Prusa Mini+** with settings provided in `!SlicerSettings.3mf`.
+All 3D-printed parts were created using FDM printers such as **Prusa XL**, **MK3S+**, or **Mini+**. Recommended print settings are available in the provided `!SlicerSettings.3mf` file.
 
 | Parameter                  | Value              |
 |---------------------------|--------------------|
@@ -30,9 +34,7 @@ All parts except **A1 (infiltrometer body)** were printed using **Prusa XL**, **
 
 ---
 
-## Assembly of AMDI
-
-### Required Components
+## Required Components
 
 - **O-rings**:
   - 1× 45 × 3.6 mm  
@@ -41,49 +43,60 @@ All parts except **A1 (infiltrometer body)** were printed using **Prusa XL**, **
 
 - **Other parts**:
   - 1× TMS-4 TDT sensor  
-  - 1× Sintered stainless steel disk (Ø 45 mm, thickness 3 mm, 80 µm pore size, GKN GmbH, Germany)  
+  - 1× Sintered stainless steel disk (Ø 45 mm, 3 mm thick)  
   - 3D printed parts:
-    - Part A (A1 + A2)
-    - Part B (B1 + B2)
-    - Part C (lid)
+    - A1 + A2 (infiltrometer body and base)
+    - B1 + B2 (Mariotte chamber and suction tube)
+    - C (lid)
 
 ---
 
-### Assembly Instructions
+## Assembly Instructions
 
-1. **Bond the Printed Parts**  
-   - Glue **B1 and B2** (Mariotte chamber and suction tube) using ethyl 2-cyanoacrylate (Henkel CEE GmbH, Germany). Let cure for **24 hours**.  
-   - Repeat for:
-     - **A1 and A2** (base + nozzle)
-     - **C and the sintered disk**
+1. **Bond Printed Parts**  
+   - Glue A1 to A2, B1 to B2, and C to the disk using suitable adhesive.  
+   - Allow to cure for 24 hours.
 
 2. **Install O-rings and Sensor**  
-   - Insert **three 20 × 3.6 mm O-rings** into sensor openings.  
-   - Apply a **non-silicone lubricant** (e.g., for plastic sewer pipes) to avoid damage.  
-   - Carefully insert the **TMS-4 sensor**, with the **status diode facing the Mariotte chamber**.
+   - Place O-rings into designated grooves.  
+   - Lubricate before inserting the sensor to avoid damage.
 
 3. **Assemble the Mariotte Chamber**  
-   - The chamber (B1 + B2) has a **fixed suction tube** and **imprinted scale from 0 to −6 cm** in 0.5 cm increments.  
-   - Connect the chamber to the Mariotte tube via **A2**, using a **5 × 2.0 mm O-ring**.  
-   - Fill with water using a syringe **before mounting**.
+   - Connect to the main body via O-ring seals.  
+   - Use the integrated scale to adjust suction height.
 
-4. **Slide the Chamber into Position**  
-   - Use **sliders** on the chamber to mount it into the **rails of A1**, allowing adjustable height.
-
-5. **Final Assembly**  
-   - Fill the AMDI with **150 mL of water** (vs. 90 mL in conventional MDI).  
-   - Screw on **Part C** with the **45 × 3.6 mm O-ring** and tighten to prevent leakage.
+4. **Final Assembly**  
+   - Mount the chamber to the body rails using the sliders.  
+   - Fill with water (approx. 150 mL), seal with the lid, and ensure no leakage.
 
 ---
 
-### Notes
+## Calibration
 
-- **Final dimensions**: 29.5 cm tall, 5 cm in diameter (22.5 cm without sensor).
-- **Offset** between the Mariotte tube and sintered disk: **9 mm** — include this in **hydraulic conductivity (K)** calculations.
-- The stainless-steel disk type is based on prior work by [Klípa et al., 2015] and [Zumr et al., 2019].
+Each AMDI device requires **individual calibration** to relate raw sensor signals to actual water volume. This ensures accurate measurement of infiltration.
+
+General calibration steps:
+
+1. Fill the reservoir and record weight loss over time on a precision balance.
+2. Log the TMS-4 sensor signal simultaneously.
+3. Fit the paired data using a polynomial regression (e.g., cubic).
+4. Use only the active sensing region to avoid artifacts.
+
+> Calibration details, procedures, and equations are available in the associated publication.
 
 ---
 
-## Calibration and Measurement
+## Infiltration Measurements
 
-_Section under construction..._
+The AMDI can be used under controlled or natural conditions to monitor infiltration at various pressure heads. The sensor enables automated data logging, making it suitable for both short-term and long-term infiltration studies.
+
+Refer to the associated article for detailed procedures and data analysis workflows.
+
+---
+
+## Citation
+
+If you use the AMDI in your work, please cite the related publication:
+
+> [Author(s)], (2025). Title of the related article. *Journal Name*. DOI
+
