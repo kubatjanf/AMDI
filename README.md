@@ -1,4 +1,4 @@
-# Automated 3D Printed Mini Disk Infiltrometer (AMDI)
+# Low-Cost Autonomous 3D-Printed Mini Disk Infiltrometerr (AMDI)
 
 ## Introduction
 
