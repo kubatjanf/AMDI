@@ -6,7 +6,7 @@ The **Automated Mini Disk Infiltrometer (AMDI)** is a 3D-printed, low-cost devic
 
 The AMDI is suitable for both **field** and **laboratory** use and enables the estimation of **unsaturated hydraulic conductivity** near saturation.
 
-🚨 **Place order via email at jan-frantisek.kubat@fsv.cvut.cz. This offer is valid until withdrawn.**
+🚨 **Place order via email at jan-frantisek.kubat@fsv.cvut.cz or michal.snehota@cvut.cz. This offer is valid until withdrawn.**
 
 ---
 
