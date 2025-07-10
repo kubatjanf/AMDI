@@ -46,7 +46,7 @@ Use clear filament (color: E4E7E5) with a diameter of 1.75 ± 0.02 mm. Since the
   - 3× 20 × 3.6 mm  
 
 - **Other parts**:
-  - 1× TMS-4 TDT sensor [link](https://tomst.com/web/en/systems/tms/tms-4/)
+  - 1× TMS-4 TDT sensor [shop](https://tomst.com/web/en/systems/tms/tms-4/)
   - 1× Sintered stainless steel disk (Ø 45 mm, 3 mm thick)  
   - 3D printed parts:
     - A1 + A2 (infiltrometer body and base)
@@ -73,7 +73,7 @@ Use clear filament (color: E4E7E5) with a diameter of 1.75 ± 0.02 mm. Since the
    - Mount the chamber to the body rails using the sliders.  
    - Fill with water (approx. 150 mL), seal with the lid, and ensure no leakage.
 
-> You can refer to the AI Assistant for help with assembly, calibration, and initial measurements:[AMDI Assist](https://chatgpt.com/g/g-686f85880f7c81918232c61168e00342-amdi-ai-assistant).
+> You can refer to the AI Assistant for help with assembly, calibration, and initial measurements: [AMDI AI-Assist](https://chatgpt.com/g/g-686f85880f7c81918232c61168e00342-amdi-ai-assistant).
 > Assist is based on OpenAI ChatGPT.
 
 ---
