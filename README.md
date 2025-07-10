@@ -46,7 +46,7 @@ Use clear filament (color: E4E7E5) with a diameter of 1.75 ± 0.02 mm. Since the
   - 3× 20 × 3.6 mm  
 
 - **Other parts**:
-  - 1× TMS-4 TDT sensor `https://tomst.com/web/en/systems/tms/tms-4/` 
+  - 1× TMS-4 TDT sensor [link](https://tomst.com/web/en/systems/tms/tms-4/)
   - 1× Sintered stainless steel disk (Ø 45 mm, 3 mm thick)  
   - 3D printed parts:
     - A1 + A2 (infiltrometer body and base)
@@ -73,7 +73,7 @@ Use clear filament (color: E4E7E5) with a diameter of 1.75 ± 0.02 mm. Since the
    - Mount the chamber to the body rails using the sliders.  
    - Fill with water (approx. 150 mL), seal with the lid, and ensure no leakage.
 
-> You can refer to the AI Assistant for help with assembly, calibration, and initial measurements:[AMDI Assist][[project-link](https://chatgpt.com/g/g-686f85880f7c81918232c61168e00342-amdi-ai-assistant)].
+> You can refer to the AI Assistant for help with assembly, calibration, and initial measurements:[AMDI Assist](https://chatgpt.com/g/g-686f85880f7c81918232c61168e00342-amdi-ai-assistant).
 > Assist is based on OpenAI ChatGPT.
 
 ---
@@ -96,7 +96,7 @@ General calibration steps:
 ## Infiltration Measurements
 
 The AMDI can be used under controlled or natural conditions to monitor infiltration at various pressure heads. The sensor enables automated data logging, making it suitable for both short-term and long-term infiltration studies.
-Macro to calculate hydraulic conductivity: [Macro][https://library.metergroup.com/Sales%20and%20Support/METER%20Environment/New-Minidisk-Infiltrometer-Macro.xlsx?_gl=1*u4umky*_gcl_au*MTU2Mjk1ODM0OS4xNzUyMTM5NjQx]
+Macro to calculate hydraulic conductivity: [Macro](https://library.metergroup.com/Sales%20and%20Support/METER%20Environment/New-Minidisk-Infiltrometer-Macro.xlsx?_gl=1*u4umky*_gcl_au*MTU2Mjk1ODM0OS4xNzUyMTM5NjQx)
 
 > Refer to the associated article for detailed procedures and data analysis workflows.
 
