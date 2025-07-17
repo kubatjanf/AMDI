@@ -112,9 +112,11 @@ Macro to calculate hydraulic conductivity: [Macro](https://library.metergroup.co
 
 ---
 
-## Legal
+## Modification
 
 Modification is highly encouraged but must be credited. If feasible, please initiate a branch with the modification for review.
+
+For example, it is not necessary for the Mariotte chamber (part B2) to be detachable..
 
 ---
 
