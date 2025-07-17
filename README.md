@@ -10,6 +10,16 @@ The AMDI is suitable for both **field** and **laboratory** use and enables the e
 
 ---
 
+## Future
+
+To further establish the AMDI as a go-to instrument, the following steps are necessary to ensure a smooth user experience and maintain data integrity:
+
+- Develop a software interface for calibration and measurement evaluation.
+- Design a simpler calibration method that remains equivalent in accuracy but is more cost-effective.
+- Conduct intensive field testing and implement modifications based on the collected data.
+
+---
+
 ## AMDI Overview
 
 The following figure presents the fully assembled AMDI:
