@@ -17,6 +17,7 @@ To further establish the AMDI as a go-to instrument, the following steps are nec
 - Develop a software interface for calibration and measurement evaluation.
 - Design a simpler calibration method that remains equivalent in accuracy but is more cost-effective.
 - Conduct intensive field testing and implement modifications based on the collected data.
+- Negotiate with TOMST company to integrate a native AMDI option into the TMS-4 software. 
 
 ---
 
