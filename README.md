@@ -117,13 +117,13 @@ Macro to calculate hydraulic conductivity: [Macro](https://library.metergroup.co
 
 Modification is highly encouraged but must be credited. If feasible, please initiate a branch with the modification for review.
 
-For example, it is not necessary for the Mariotte chamber (part B) to be detachable..
+For example, it is not necessary for the Mariotte chamber (part B) to be detachable.
 
 ---
 
 ## Citation
 
-If you use the AMDI in your work, please cite the related publication:
+If you use the AMDI in your work, please cite the related publication: [Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5280249)
 
 > [Author(s)], (2025). Title of the related article. *Journal Name*. DOI
 
