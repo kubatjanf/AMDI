@@ -107,7 +107,7 @@ General calibration steps:
 ## Infiltration Measurements
 
 The AMDI can be used under controlled or natural conditions to monitor infiltration at various pressure heads. The sensor enables automated data logging, making it suitable for both short-term and long-term infiltration studies.
-Macro to calculate hydraulic conductivity: [Macro](https://library.metergroup.com/Sales%20and%20Support/METER%20Environment/New-Minidisk-Infiltrometer-Macro.xlsx?_gl=1*u4umky*_gcl_au*MTU2Mjk1ODM0OS4xNzUyMTM5NjQx)
+Macro to calculate hydraulic conductivity: provied by MeterGroup [Macro](https://library.metergroup.com/Sales%20and%20Support/METER%20Environment/New-Minidisk-Infiltrometer-Macro.xlsx?_gl=1*u4umky*_gcl_au*MTU2Mjk1ODM0OS4xNzUyMTM5NjQx)
 
 > Refer to the associated article for detailed procedures and data analysis workflows.
 
