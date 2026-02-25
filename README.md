@@ -1,5 +1,5 @@
 # Low-Cost Autonomous 3D-Printed Mini Disk Infiltrometer (AMDI)
-[Journal of Hydrology[(doi.org/10.1016/j.jhydrol.2025.134212)
+Fore detailes refer to [Journal of Hydrology](doi.org/10.1016/j.jhydrol.2025.134212)
 
 ## Introduction
 
