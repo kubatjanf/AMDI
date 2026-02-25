@@ -126,5 +126,5 @@ For example, it is not necessary for the Mariotte chamber (part B) to be detacha
 
 If you use the AMDI in your work, please cite the related publication: [Article](https://doi.org/10.1016/j.jhydrol.2025.134212)
 
-> [Author(s)], (2025). Title of the related article. Journal of Hydrology, DOI: doi.org/10.1016/j.jhydrol.2025.134212
+> Jan-František Kubát, Francesco Zanna, Martin Mildner, Michal Sněhota], (2025). Low-Cost Autonomous 3D-Printed Mini Disk Infiltrometer. Journal of Hydrology, DOI: doi.org/10.1016/j.jhydrol.2025.134212
 
